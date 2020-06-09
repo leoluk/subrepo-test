@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f7f1a3e5_9a6922f9",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1018004
+      },
+      "writtenOn": "2020-06-09T11:28:25Z",
+      "side": 1,
+      "message": "Fancy smiley!",
+      "range": {
+        "startLine": 8,
+        "startChar": 20,
+        "endLine": 8,
+        "endChar": 22
+      },
+      "revId": "53fcb1e145ad07862a197e193443b8ca5b46ca78",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
