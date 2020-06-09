@@ -1,0 +1,3 @@
+[submodule "upstream"]
+	path = upstream
+	url = git@github.com:leoluk/subrepo-test-upstream.git
