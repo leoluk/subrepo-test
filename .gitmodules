@@ -1,3 +1,4 @@
 [submodule "upstream"]
 	path = upstream
 	url = ssh://leoluk@review.gerrithub.io:29418/leoluk/subrepo-test-upstream
+	branch = master
